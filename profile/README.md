@@ -28,9 +28,9 @@ In addition to _seeing_ an XR experience (e.g. by wearing a head-mounted display
 
 ## Get involved with Carolina AR/VR
 As an XR student organization, we host events and provide opportunities for our members to **explore**, **learn**, and **develop** within the XR space. Most notably, we do the following in these general areas:
-* **Explore** via social events where you can try out various XR hardware while meeting other passionate invidiuals
-* **Learn** via workshops, panels, research showcases, and other exciting events 
-* **Develop** via our development team on project(s) of interest
+* **Explore** via social events where you can try out various XR hardware while meeting other passionate individuals.
+* **Learn** via workshops, panels, research showcases, and other exciting events.
+* **Develop** via our development team on project(s) of interest.
 
 To get involved, please [visit our website](https://uncarvr.org/) and [join the Discord server](https://discord.gg/CgBeb7YUpX)!
 

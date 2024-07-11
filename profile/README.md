@@ -44,7 +44,7 @@ To get involved, please [visit our website](https://uncarvr.org/) and [join the 
 * 🕹️ Hardware
   * Building XR interfaces to improve immersion (e.g. olfactory displays, haptic gloves, AR HMDs)
 
-If you're interested in working on a project, please let us know in the **# 🥽｜projects** channel within our Discord server or [apply](https://linktr.ee/carvr) at the beginning of the semester 🩵
+If you're interested in working on a project, please let us know in the **# 🥽｜projects** channel within our Discord server and [apply](https://linktr.ee/carvr) at the beginning of the semester 🩵
  
 
 _This README was written by Ashley Neall_

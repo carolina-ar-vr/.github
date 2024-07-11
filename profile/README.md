@@ -32,9 +32,11 @@ As an XR student organization, we host events and provide opportunities for our 
 * **Learn** via workshops, panels, research showcases, and other exciting events 
 * **Develop** via our development team on project(s) of interest
 
+To get involved, please [visit our website](https://uncarvr.org/) and [join the Discord server](https://discord.gg/CgBeb7YUpX)!
+
 ### Our Development Team
 * 🌐 Web
- * Creating web-based XR experiences (e.g. immersive websites with A-Frame)
+  * Creating web-based XR experiences (e.g. immersive websites with A-Frame)
 * ⿻ Design
   * Designing XR experiences across all sensoring domains (e.g. 3D UI, modeling, animation, spatial sound production, haptic feedback design)
 * 📱 Software

@@ -5,9 +5,9 @@
 ### What exactly is **E**xtended **R**eality?
 **E**xtended **R**eality (**XR**) is an umbrella term encapsulating any technology that provides immersive experiences through any sensory domain. XR technology is constantly expanding, and immersion can be achieved through a variety of interfaces (e.g. head-mounted displays, olfactory displays, haptic gloves).
 We can further distinguish the type of XR experience with the following terms: 
- **A**ugmented **R**eality (**AR**) – Augment what’s already there
-* **M**ixed **R**eality (**MR**) – Real-world interactions + virtual augmentation
-* **V**irtual **R**eality (**VR**) – Total immersion in virtual space
+* **A**ugmented **R**eality (**AR**) – Augment what’s already there
+* **M**ixed **R**eality (**MR**) – Interact with the real space + virtual content
+* **V**irtual **R**eality (**VR**) – Total immersion in a virtual space
 
 While the terms '**AR**', '**MR**', '**VR**' can be useful to categorize XR experiences, many see categorization as a subjective spectrum – increasing in complexity as new experiences are created. 
 
@@ -23,8 +23,8 @@ In addition to _seeing_ an XR experience (e.g. by wearing a head-mounted display
 * **Gustatory** domain – Taste XR with your **tongue** 👅
   * Interface example: [Miyashita Lab Electric Salt](https://www.youtube.com/watch?v=SR62l67FEbo) **electric taste interface**
 
-Multisensory XR 
-* Often, we can increase immersion when developing XR experiences by incorporating interfaces for __multiple__ sensory domains. Some people refer to this as multisensory XR, but there are many subjective ways to identify XR experiences that use more than one interaction method (e.g. multimodal XR). New terms gain traction as XR research evolves (e.g. **BCI** **vestibular** interfaces).
+**Multisensory XR**
+* Often, we can increase immersion when developing XR experiences by incorporating interfaces for __multiple__ sensory domains. Some people refer to this as multisensory XR, but there are many subjective ways to identify XR experiences that use more than one interaction method (e.g. multimodal XR). New terms gain traction as XR research evolves (e.g. **BCIs** and **vestibular** interfaces).
 
 ## Get involved with Carolina AR/VR
 As an XR student organization, we host events and provide opportunities for our members to **explore**, **learn**, and **develop** within the XR space. Most notably, we do the following in these general areas:

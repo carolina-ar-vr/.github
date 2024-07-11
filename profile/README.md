@@ -52,5 +52,6 @@ We have XR equipment that is available for our **student** members during the ac
 ## Additional Resources
 * [Intercollegiate XR (ICXR)](https://www.icxr.org/)
  * Georgia Tech XR (GTXR)'s [Starter Guide](https://github.com/GeorgiaTech-XR/XR-Starter-Guide)
+ * Ashley Neall's [XR Version Control Guide](https://fringe-capricorn-955.notion.site/Public-XR-Version-Control-Guide-442b4a1bc2404fb6aaac1fbf9150b258)
 
 _This README was written by Ashley Neall_

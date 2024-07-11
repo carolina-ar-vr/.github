@@ -32,7 +32,7 @@ As an XR student organization, we host events and provide opportunities for our 
 * **Learn** via workshops, panels, research showcases, and other exciting events.
 * **Develop** via our development team on project(s) of interest.
 
-To get involved, please [visit our website](https://uncarvr.org/) and [join the Carolina AR/VR Discord server](https://discord.gg/CgBeb7YUpX)!
+We welcome undergraduate and graduate students across all fields of study. Additionally, we collaborate with faculty, industry professionals, and various organizations. To get involved, please [visit our website](https://uncarvr.org/) and [join the Carolina AR/VR Discord server](https://discord.gg/CgBeb7YUpX)!
 
 ### Our Development Team
 * 🌐 Web

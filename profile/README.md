@@ -1,4 +1,4 @@
-## Welcome to Carolina AR/VR 🥽
+## Welcome to [Carolina AR/VR](https://uncarvr.org/) 🥽
 
 **C**arolina **AR**/**VR** _(aka **CARVR**)_ is UNC-Chapel Hill’s extended reality student organization, promoting student exploration and development of XR technologies.
 

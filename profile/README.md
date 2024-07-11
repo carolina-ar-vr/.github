@@ -32,7 +32,7 @@ As an XR student organization, we host events and provide opportunities for our 
 * **Learn** via workshops, panels, research showcases, and other exciting events.
 * **Develop** via our development team on project(s) of interest.
 
-To get involved, please [visit our website](https://uncarvr.org/) and [join the Discord server](https://discord.gg/CgBeb7YUpX)!
+To get involved, please [visit our website](https://uncarvr.org/) and [join the Carolina AR/VR Discord server](https://discord.gg/CgBeb7YUpX)!
 
 ### Our Development Team
 * 🌐 Web
@@ -43,5 +43,8 @@ To get involved, please [visit our website](https://uncarvr.org/) and [join the 
   * Integrating designs and hardware to develop full-fledged XR experiences (e.g. Unity development for Meta Quest, HoloLens, Magic Leap, Vision Pro)
 * 🕹️ Hardware
   * Building XR interfaces to improve immersion (e.g. olfactory displays, haptic gloves, AR HMDs)
+
+If you're interested in working on a project, please let us know in the # 🥽｜projects channel within our Discord server.
+ 
 
 * _This README was written by Ashley Neall_
